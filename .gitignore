@@ -1,0 +1,13 @@
+/iTTS/__version__.py
+
+__pycache__
+*.py[co]
+*.egg-info
+build
+dist
+.eggs
+/monkeytype.sqlite3
+/*.srctrldb
+/*.srctrlbm
+/*.srctrlprj
+/.ipynb_checkpoints
